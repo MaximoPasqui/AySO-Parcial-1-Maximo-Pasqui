@@ -1,0 +1,3 @@
+Mi IP Publica es: 201.212.206.234
+Mi Usuario es: vagrant
+El Hash de mi Usuario es: $y$j9T$YKDqIFD.esIbEj1zqtfhF1$2BxW2Gvo/GCjKPKWJ75Rb3jADWRLpZ7W9MOZmyB5RX2
